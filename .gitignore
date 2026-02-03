@@ -30,3 +30,4 @@ go.work.sum
 # Avoid pushing private settings
 config.toml
 .dqt
+.idea/
