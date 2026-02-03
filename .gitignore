@@ -26,3 +26,7 @@ go.work.sum
 
 /cache
 /sessions
+
+# Avoid pushing private settings
+config.toml
+.dqt
